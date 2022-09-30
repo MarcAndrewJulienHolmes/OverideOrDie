@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TeleportIgnore
+  - leftcont
+  - rightcont
+  - SteeringWheel
+  - Explosions
+  - Stefani_crossing
+  - Stefani_scared
+  - Override
+  - Malc_falling
+  - Malc_laying
+  - Malc_sitting
+  - FirstBike
+  - SecondBike
+  - Malc_objects
+  - Train
+  - BarrierHolder
+  - BarrierHolder2
+  - Tram
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
